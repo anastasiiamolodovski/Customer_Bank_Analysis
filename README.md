@@ -1,3 +1,4 @@
+🏦 Customer Bank Analysis Dashboard
 This BI project analyzes customer demographics and banking behavior based on age, gender, region, and job type
 
 🔍 Purpose
